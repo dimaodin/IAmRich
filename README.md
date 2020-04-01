@@ -1,6 +1,7 @@
 # I am RICH app!
 
 A new Flutter application that says "I am RICH!" with a diamond image :)
+
 Very simple app for beginners.
 
 ## Getting Started

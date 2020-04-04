@@ -1,18 +1,23 @@
 # I am RICH app!
 
+## My Goal
+
+My goal is give you the knowledge to create a Flutter app entirely from scratch, how to go further and learn more about how to design user interfaces for Flutter apps.
+
+## What you will create
+
 A new Flutter application that says "I am RICH!" with a diamond image :)
 
 Very simple app for beginners.
 
-## Getting Started
+## Screenshots
 
-Clone this repo.
+![Image description](https://i.imgur.com/BeFZcG5.png) 
 
-A few resources to get you started if this is your first Flutter project:
+## Installation
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+1. Clone this repo.
+2. Enjoy.
 
-For help getting started with Flutter, view
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+##### Love, Dima Odintsov

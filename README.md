@@ -12,7 +12,7 @@ Very simple app for beginners.
 
 ## Screenshots
 
-![Image description](https://i.imgur.com/BeFZcG5.png) 
+![Image description](https://i.imgur.com/JjiSML3.png) 
 
 ## Installation
 

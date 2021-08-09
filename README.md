@@ -62,7 +62,7 @@ Check out the [contributing](https://github.com/dimaodin/IAmRich/blob/main/CONTR
 ## :closed_book: License
 
 Released in 2020,
-This project is under the [MIT license](https://github.com/dimaodin/IAmRich/blob/main/LICENSE).
+This project is under the [MIT license](https://github.com/dimaodin/IAmRich/blob/master/LICENSE).
 
 <br>
 
